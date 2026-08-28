@@ -1,4 +1,4 @@
-# Data Pipeline Project (Mini Project)
+# Data Pipeline Project 
 
 A small end-to-end project simulating a **Data Support** workflow:
 extracting data, validating it, loading it into a database, tracking pipeline run history,
