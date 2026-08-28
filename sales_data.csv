@@ -1,0 +1,11 @@
+order_id,date,product,quantity,price,region
+1001,2026-08-01,Laptop,2,45000,Pune
+1002,2026-08-01,Mouse,5,500,Mumbai
+1003,2026-08-02,Keyboard,3,1200,Pune
+1004,2026-08-02,Monitor,1,8500,Delhi
+1005,2026-08-03,Laptop,1,45000,Mumbai
+1006,2026-08-03,Mouse,,450,Pune
+1007,2026-08-04,Headphones,4,1500,Delhi
+1008,2026-08-04,Keyboard,-2,1200,Mumbai
+1009,2026-08-05,Monitor,2,,Pune
+1010,2026-08-05,Laptop,3,45000,Delhi
